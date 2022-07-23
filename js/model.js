@@ -6,7 +6,7 @@ export default class Model {
       this.todos = [
         {
           id: 0,
-          title: "Primera todo",
+          title: "Primer todo",
           description: "descripcion....",
           completed: true,
         },
