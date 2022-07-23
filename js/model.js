@@ -6,8 +6,8 @@ export default class Model {
       this.todos = [
         {
           id: 0,
-          title: "learn JS",
-          description: "wactch js tutorials",
+          title: "Primera todo",
+          description: "descripcion....",
           completed: true,
         },
       ];
